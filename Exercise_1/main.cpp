@@ -5,7 +5,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	
-	cout << "Gustavo Aveiro Ribeiro - Rua Fiação da Saúde, 145 - CJ 57" << "\n\n";
+	cout << "Gustavo Aveiro" << "\n\n";
 	
 	system("pause");
 	return 0;
